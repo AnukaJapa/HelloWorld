@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World! come va?");
 
 var risposta = Console.ReadLine();
-Console.WriteLine("La risposta è" + risposta);
+Console.WriteLine("La risposta è" + risposta );
